@@ -1,0 +1,14 @@
+# 忽略Python字节码缓存目录
+__pycache__/
+
+# 忽略Mermaid生成的PNG图片（匹配所有mermaid-*.png）
+assets/images/mermaid-*.png
+
+# 忽略测试文件（若不需要跟踪）
+test001.py
+test002.py
+test003.py
+
+# 忽略VS Code工作区文件（若不需要跟踪）
+test_bot.code-workspace
+vscode_projects.code-workspace
