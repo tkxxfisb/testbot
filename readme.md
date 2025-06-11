@@ -5,7 +5,7 @@
 本项目是一个智能聊天助手，模拟算命先生陈玉楼（陈大师）与用户进行交互。用户可通过网页前端输入问题，如八字查询、运势预测、解梦、占卜等，后端运用 LangChain 框架结合多个工具调用不同 API 进行解答，并使用 Edge - TTS 生成语音回复。
 
 ### 二、项目结构
-![聊天界面示例](assets/images/exported_image.png "智能聊天助手界面")
+![聊天界面示例](assets/images/mermaid-highres-1.png "智能聊天助手界面")
 ```
 testbot/
 ├── frontend/
