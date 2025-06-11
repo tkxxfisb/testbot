@@ -12,3 +12,11 @@ test003.py
 # 忽略VS Code工作区文件（若不需要跟踪）
 test_bot.code-workspace
 vscode_projects.code-workspace
+
+
+# 忽略根目录下的未跟踪文件
+index.html
+pic.md
+pic.pdf
+voice_test.py
+wechat_app.py
